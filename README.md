@@ -18,25 +18,7 @@
 
 ### Мои навыки
 
-DevTools   
-Charles
-Figma
-YouTrack
-Android Studio
-Postman
-Python
-JSON/XML
-Swagger
-SQL
-Cygwin/Terminal
-Git
-MongoDBCompass
-Charles
-SoapUI 
-Linux Ubuntu
-Kibana
-Grafana
-Kafka
+DevTools,Charles,Figma,YouTrack,Android Studio,Postman,Python,JSON/XML,Swagger,SQL,Terminal,Git,MongoDBCompass,Charles,SoapUI ,Linux Ubuntu,Kibana,Grafana,Kafka
 
 
 
